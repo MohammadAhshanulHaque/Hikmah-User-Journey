@@ -16,24 +16,24 @@
    
        scripting language used for: JS
 
-5. How to run test scripts:
+4. How to run test scripts:
 
        npx playwright test Hikmah_User Journey.spec.js --headed [From VS code terminal]        
 
        Sometimes the whole test script doesn't pass, so if it happens, please run the test individually, and then the tests will pass.
 
 
-6. How to show HTML report: 
+5. How to show HTML report: 
 
        npx playwright show-report [From VS code terminal]
 
 NB: For automation test scripts, I use Codegen, which is the built-in Playwright tool that records browser actions and automatically generates test scripts. 
 
-7. How to run codegen:
+6. How to run codegen:
 
        npx playwright codegen [From VS code terminal]
 
-8. Test Scenarios Covered for both the script files:
+7. Test Scenarios Covered for both the script files:
 
        a. Verify Browser has correct title
        b. Verify Login page has correct header
