@@ -18,8 +18,7 @@
 
 5. How to run test scripts:
 
-       npx playwright test Hikmah_User Journey.spec.js --headed [From VS code terminal]
-        
+       npx playwright test Hikmah_User Journey.spec.js --headed [From VS code terminal]        
 6. How to show HTML report: 
 
        npx playwright show-report [From VS code terminal]
