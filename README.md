@@ -32,7 +32,7 @@ NB: For automation test scripts, I use Codegen, which is the built-in Playwright
 
        npx playwright codegen [From VS code terminal]
 
-Test Scenarios Covered for both the script files:
+8. Test Scenarios Covered for both the script files:
 
        a. Verify Browser has correct title
        b. Verify Login page has correct header
