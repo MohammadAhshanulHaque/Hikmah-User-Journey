@@ -19,11 +19,15 @@
 5. How to run test scripts:
 
        npx playwright test Hikmah_User Journey.spec.js --headed [From VS code terminal]        
+
+       Sometimes the whole test script doesn't pass, so if it happens, please run the test individually, and then the tests will pass.
+
+
 6. How to show HTML report: 
 
        npx playwright show-report [From VS code terminal]
 
-NB: For automation test scripts, I use Codegen, which is the built-in Playwright tool that records browser actions and automatically generates test scripts. Sometimes the whole test scripts din't pass so if it happen please run the test individually then the tests get pass. 
+NB: For automation test scripts, I use Codegen, which is the built-in Playwright tool that records browser actions and automatically generates test scripts. 
 
 7. How to run codegen:
 
