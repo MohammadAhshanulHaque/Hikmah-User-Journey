@@ -1,7 +1,9 @@
 For this test I use Playwright which is an open-source test automation framework & VS Code [Visual Studio Code].
 
 Environment Setup for Playwright:
+
 Install Node.js
+
 Create a Project Folder
 Initialize a Node.js Project
 Install Playwright [npm init playwright@latest from VS code terminal]
