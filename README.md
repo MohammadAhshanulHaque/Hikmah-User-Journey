@@ -14,7 +14,7 @@
 
        HIKMAH USER JOURNEY --> tests --> Hikmah_User Journey.spec.js
    
-       scripting language used for: JS
+       scripting language used: JS
 
 4. How to run test scripts:
 
